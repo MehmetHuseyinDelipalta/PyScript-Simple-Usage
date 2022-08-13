@@ -1,2 +1,2 @@
 # PyScript-Simple-Usage
-PyScript simple usage.
+Simple example of using PyScript.
